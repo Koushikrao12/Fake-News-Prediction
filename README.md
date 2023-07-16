@@ -11,5 +11,7 @@ Using a carefully curated dataset, this project trains a logistic regression mod
 Key Features:
 
 Author-Based Analysis: The project takes into account the author's reputation and historical credibility to assess the reliability of the news article.
+
 Headline Analysis: The model extracts essential information from the headline to capture language patterns and indicators of potential misinformation.
+
 Logistic Regression Model: Leveraging the logistic regression algorithm, the project effectively maps the input features to a binary classification output, indicating whether the news is likely to be fake or genuine.
